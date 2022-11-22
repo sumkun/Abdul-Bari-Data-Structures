@@ -8,8 +8,9 @@ Follow my repo for step by step execution of programs taught in the course.
 
 Thanks!
 
-Follow me on
+Follow me on:
+<ul>
 <a href = "http://www.facebook.com/ig.roronoa"><li>Facebook</li></a>
 <a href = "http://www.instagram.com/ig.roronoa"><li>Instagram</li> </a>
 <a href = "http://www.reddit.com/chidoriswag"><li>Reddit</li></a>
-
+</ul>
